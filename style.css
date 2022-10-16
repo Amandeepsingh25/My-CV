@@ -1,0 +1,51 @@
+/* body { */
+	/* max-width: 800px;
+	max-height: 1000px;
+	font-family: Source Sans Pro;
+	font-size: 12px;
+	font-size: 1rem;
+	z-index: 0;
+	margin: 0px; */
+
+.about{
+    font: optional;
+    color: rgb(2, 1, 8);
+    background-color: rgb(246, 247, 240);
+}
+.education{
+    font: optional;
+    color: rgb(2, 1, 8);
+    background-color: rgb(246, 247, 240);
+}
+.achieve{
+    font: optional;
+    color: rgb(2, 1, 8);
+    background-color: rgb(246, 247, 240);
+}
+.skills{
+    font: optional;
+    color: rgb(2, 1, 8);
+    background-color: rgb(246, 247, 240);
+}
+.image{
+    margin-left: 0px;
+    background-color: aqua;
+    
+}
+.responsive {
+    width: 100%;
+    height: auto;
+  }
+  .GFG {
+    background-color: rgb(82, 67, 246);
+    border: 2px solid black;
+    color: green;
+    padding: 5px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin: 30px 60px;
+    cursor: pointer;
+    text-decoration:none;
+}
+  
